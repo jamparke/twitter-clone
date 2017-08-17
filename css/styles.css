@@ -1,11 +1,8 @@
 /*
-
 Things to remember:
-
 1. Always use proper indentation in your css and html
 2. An "#" selector or 'id' will override a '.' selector or 'class'
 3. A '.' selector will override a native selector, like 'div'
-
 */
 
 
@@ -129,6 +126,7 @@ body {
 	}
 		#tweet-controls {
 			text-align: right;
+			
 		}
 			#tweet-controls div {
 				display: inline-block;
@@ -258,5 +256,3 @@ body {
 				top: 0;
 				left: 0;
 			}
-
-
